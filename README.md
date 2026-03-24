@@ -1,7 +1,7 @@
 ## Hi there, I'm Ayaan Patel 👋
 
 - 🔭 I'm currently working on:
-  - **ATEL** - A community-driven social platform
+  - **ATEL** - A personal all in one health companion
   - **SwapSphere** - AI-powered barter trading platform with machine learning trade matching
   - Currently in R&D stage of social shopping and building a solid business foundation
 
